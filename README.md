@@ -8,7 +8,7 @@ BilledIn is a simple billing system (Desktop application) for small businesses. 
 
 - **Employee Login**
     - The employee can login using their employee id and password, One standout feature of the application is that the employee can only login if the admin has created an account for them and also the password is encrypted, ensuring the security of the employee's account.
-    ![Employee Login](images/emp_login.png)
+    ![Employee Login](images/emp_lgn.png)
 
 - **Admin mode**
     - The admin can login using the default username and password, which is "admin01" and "admin01" respectively.
