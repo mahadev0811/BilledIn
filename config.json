@@ -1,0 +1,14 @@
+{
+    "store": {
+        "store_name": "RB Fashion & Fitness",
+        "store_gstin": "11AAAA1111A1A1",
+        "store_address1": "No. 12, 1st Main, 1st Cross",
+        "store_address2": "ABCD Layout, Bangalore-72",
+        "store_phone": "080-12345678",
+        "store_email": "abc@gmail.com",
+        "store_website": "www.abc.com"
+    },
+    "billing": {
+        "barcode_max_len": 7
+    }
+}
