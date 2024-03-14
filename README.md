@@ -24,8 +24,6 @@ BilledIn is a simple billing system (Desktop application) for small businesses. 
     ![Inventory Management](images/inv_mngmnt.png)
     - Update Product
     ![Update Product](images/prod_updt.png)
-    - Generate Barcode
-    ![Generate Barcode](images/prod_stckr.png)
 
 - **Employee Management**
     - The admin can search, add, update and delete the employee's account.
@@ -42,6 +40,10 @@ BilledIn is a simple billing system (Desktop application) for small businesses. 
 - **Billing Screen**
     - The employee can generate bills for the customers.
     ![Billing Screen](images/blng_scrn.png)
+
+- **Barcode Sticker**
+    - The admin can generate barcode stickers for the products.
+    ![Barcode Sticker](images/prod_stckr.png)
 
 ## Installation
 - Clone the repository
