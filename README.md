@@ -22,18 +22,22 @@ BilledIn is a simple billing system (Desktop application) for small businesses. 
 - **Inventory Management**
     - The admin can search, add, update, delete and genrate barcode stickers for the products.
     ![Inventory Management](images/inv_mngmnt.png)
-    ![Product Sticker](images/prod_stckr.png)
+    - Update Product
     ![Update Product](images/prod_updt.png)
+    - Generate Barcode
+    ![Generate Barcode](images/prod_stckr.png)
 
 - **Employee Management**
     - The admin can search, add, update and delete the employee's account.
     ![Employee Management](images/emp_mngmnt.png)
+    - Add Employee
     ![Add Employee](images/add_emp.png)
-    ![Update Employee](images/updt_emp.png)
 
 - **Invoice Management**
     - The admin can search invoices and generate bills and sales reports.
     ![Invoice Management](images/invc_mngmnt.png)
+    - Sales Report
+    ![Sales Report](images/sales_report.png)
 
 - **Billing Screen**
     - The employee can generate bills for the customers.
